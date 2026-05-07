@@ -1,0 +1,7 @@
+models/
+charts/
+data/IMDB Dataset.csv
+data/imdb-dataset-of-50k-movie-reviews.zip
+__pycache__/
+*.pyc
+.env
